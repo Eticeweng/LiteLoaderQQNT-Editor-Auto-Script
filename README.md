@@ -16,7 +16,7 @@
 现在是2024/3/29 00:00:00 @someone，这是你刚刚要的一串24位的随机字符串myks7pyj6qgpzrn3att4dat4
 这是一串md5: 361fadf1c712e812d198c4cab5712a79
 ```
-![{CCD383A2-97A6-4c30-B11B-66029ACC7620}](https://github.com/Eticeweng/LiteLoaderQQNT-Editor-Auto-Script/assets/43090280/d2a15c75-0ca3-443d-a64a-b7a1869bd450)
+![{0359A7DD-2A99-4252-AE4C-F6E42E014510}](https://github.com/Eticeweng/LiteLoaderQQNT-Editor-Auto-Script/assets/43090280/1d3ee956-e76d-490b-9416-b9dbf989680e)
 
 ### 格式  
 基础用法为
